@@ -51,7 +51,7 @@ module.exports = {
             default: 0, //specifies order in the array
             4: 0, //specifies chain order. 4 would be rinkeby, position 2
         },
-        player1: {
+        user1: {
             default: 1,
             4: 1,
         },
